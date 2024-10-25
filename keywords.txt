@@ -1,0 +1,14 @@
+spreMP3Lib    KEYWORD1
+begin         KEYWORD2
+loop          KEYWORD2
+play          KEYWORD2
+pause         KEYWORD2
+resume        KEYWORD2
+next          KEYWORD2
+prev          KEYWORD2
+stop          KEYWORD2
+setIndex      KEYWORD2
+getFileCount  KEYWORD2
+isTrackIndex  KEYWORD2
+setDebugMode  KEYWORD2
+getFileName   KEYWORD2
